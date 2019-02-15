@@ -1,6 +1,6 @@
 # BuddyBot
 
-BuddyBot is a Python powered Artificial Intelligence Chatbot.
+BuddyBot is a Python powered Artificial Intelligence Chatbot. It is alo equipped with text-to-speech feature. The bot will answer all your questions in text and even in speecch.
 
 ## Installation
 
@@ -12,7 +12,7 @@ sudo apt-get update && sudo apt-get install espeak
 2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install:
 
 ```bash
-pip install foobar
+pip install chatterbot
 pip install pyttsx3
 ```
 3. Clone to repository or download its zip file.
